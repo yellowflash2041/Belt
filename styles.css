@@ -1,0 +1,22 @@
+.men {
+  width: 160px;
+}
+
+.man {
+  width: 32px;
+  height: 32px;
+}
+
+.alive {
+  background-color: rgba(0, 0, 0, .75);
+  border-width: 2px !important;
+  font-size: larger;
+  top: -32px;
+  left: -32px;
+  width: 32px;
+}
+
+.fa-ban {
+  font-size: xx-large;
+  width: 32px;
+}
